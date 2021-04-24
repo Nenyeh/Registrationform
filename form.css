@@ -33,7 +33,7 @@ body{
   
 .contact-person{
   background-color:ivory;
-  margin-top: 40px;
+  margin-top: 25px;
   width: 550px;
   height:150px;
   margin-left: -5px;
@@ -45,7 +45,7 @@ body{
   background-color:ivory;
   margin-top: 10px;
   width: 550px;
-  height:155px;
+  height:205px;
   margin-left: -5px;
   border: 5px solid lightgreen;
   border-radius: 10px;
@@ -117,8 +117,8 @@ body{
 
 .reasons{
   margin-left:10px;
-  line-height:60px;
-  padding-right:250px;
+  line-height:17px;
+  padding-right:100px;
 }
 
 .organizationaddress{
@@ -192,6 +192,8 @@ body{
 
 .yourcomments{
   margin-left:10px;
+  line-height:17px;
+  padding-right:100px;
 }
 
 .submitbutton{
