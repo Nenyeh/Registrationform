@@ -1,0 +1,212 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  background-color: lightsteelblue;
+  background-position:center;
+  font-family:garamond;
+  margin-top:40px;
+}
+  
+
+.regform{
+  background-color:ivory;
+  width:550px;
+  height:155px;
+  border: 5px solid lightgreen;
+  border-radius: 10px;
+  margin-left:450px;
+
+}
+  
+
+.orginfo{
+  background-color:ivory;
+  width: 550px;
+  height:530px;
+  border: 5px solid lightgreen;
+  border-radius: 10px;
+  margin-top:10px;
+  margin-left:450px;
+}
+  
+.contact-person{
+  background-color:ivory;
+  margin-top: 40px;
+  width: 550px;
+  height:150px;
+  margin-left: -5px;
+  border: 5px solid lightgreen;
+  border-radius: 10px;
+}
+
+.other-info{
+  background-color:ivory;
+  margin-top: 10px;
+  width: 550px;
+  height:155px;
+  margin-left: -5px;
+  border: 5px solid lightgreen;
+  border-radius: 10px;
+}
+
+.honeclass{
+  margin-top:20px;
+  margin-left:10px;
+}
+
+#name{
+  width:100%;
+}
+.classname{
+  margin-left:10px;
+  margin-top:20px;
+  margin-bottom:10px;
+  color:black;
+  font-size:25px;
+}
+
+.emailaddress{
+  margin-left:10px;
+  margin-bottom:10px;
+}
+
+.firstlabel{
+  margin-left:10px;
+}
+
+.secondlabel{
+  margin-left:10px;
+}
+
+.thirdlabel{
+  margin-left:10px;
+}
+
+.fifthlabel{
+  margin-left:10px;
+}
+
+.yourcountry{
+  margin-left:10px;
+  margin-bottom:10px;
+}
+
+.date_of_app{
+  margin-left:10px;
+  margin-bottom:10px;
+}
+
+.orgname{
+  margin-left:10px;
+  margin-bottom:10px;
+}
+
+.type-of-org{
+  margin-left:10px;
+}
+
+.eighthlabel{
+  margin-left:10px;
+}
+
+.fourthlabel{
+  margin-left:10px;
+}
+
+.reasons{
+  margin-left:10px;
+  line-height:60px;
+  padding-right:250px;
+}
+
+.organizationaddress{
+  margin-left:10px;
+  margin-bottom:10px;
+}
+
+.radiodiv{
+  margin-left:10px;
+  margin-bottom:10px;
+}
+
+.contactclass{
+  margin-left:10px;
+  margin-top:20px;
+  margin-bottom:10px;
+  color:black;
+  font-size:25px;
+}
+
+.sixthlabel{
+  margin-left:10px;
+}
+
+.contactperson{
+  margin-left:10px;
+  margin-bottom:10px;
+}
+
+.seventhlabel{
+  margin-left:10px;
+}
+
+.contactpersonemail{
+  margin-left:10px;
+}
+
+.other-class{
+  margin-left:10px;
+  margin-top:20px;
+  margin-bottom:10px;
+  color:black;
+  font-size:25px;
+}
+
+.pclass{
+  margin-left:10px;
+  margin-top:5px;
+  color:black;
+}
+
+.asterix{
+  margin-left:10px;
+  margin-top:-15px;
+  color:black;
+}
+
+
+.ninthlabel{
+  margin-left:10px;
+}
+
+.whatsappnumber{
+  margin-left:10px;
+  margin-bottom:10px;
+}
+
+.tenthlabel{
+  margin-left:10px;
+}
+
+.yourcomments{
+  margin-left:10px;
+}
+
+.submitbutton{
+  margin-top:30px;
+  margin-bottom:30px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  background-color: ivory;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.submitbutton:hover {
+  background-color: lightgreen;
+}
